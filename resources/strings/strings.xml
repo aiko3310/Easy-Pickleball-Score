@@ -1,0 +1,37 @@
+<strings>
+    <string id="AppName">Easy Pickleball Score</string>
+    <string id="Setup">Pickleball</string>
+    <string id="Start">Start Game</string>
+    <string id="Format">Scoring</string>
+    <string id="Rally">Rally</string>
+    <string id="SideOut">Side-out</string>
+    <string id="Points">Points to win</string>
+    <string id="Deuce">Deuce</string>
+    <string id="WinBy2">Win by 2</string>
+    <string id="NoDeuce">Off</string>
+    <string id="Mode">Mode</string>
+    <string id="Singles">Singles</string>
+    <string id="Doubles">Doubles</string>
+    <string id="FirstServe">First serve</string>
+    <string id="LeftTeam">Left</string>
+    <string id="RightTeam">Right</string>
+    <string id="Role">Role</string>
+    <string id="Player">Player</string>
+    <string id="Scorer">Scorekeeper</string>
+    <string id="MyTeam">My team</string>
+    <string id="Opponent">Opponent</string>
+    <string id="Serve">SERVE</string>
+    <string id="CourtR">R court</string>
+    <string id="CourtL">L court</string>
+    <string id="ServerFmt">#$1$</string>
+    <string id="WinsFmt">$1$ wins!</string>
+    <string id="HintOver">START menu · BACK undo</string>
+    <string id="GameMenu">Menu</string>
+    <string id="Undo">Undo last point</string>
+    <string id="Restart">Restart game</string>
+    <string id="BackToSetup">Back to setup</string>
+    <string id="SaveActivity">Save activity?</string>
+    <string id="Save">Save</string>
+    <string id="Discard">Discard</string>
+    <string id="Exit">Exit</string>
+</strings>

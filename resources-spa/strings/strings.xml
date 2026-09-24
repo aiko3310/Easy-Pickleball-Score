@@ -1,0 +1,37 @@
+<strings>
+    <string id="AppName">Easy Pickleball Score</string>
+    <string id="Setup">Pickleball</string>
+    <string id="Start">Empezar partido</string>
+    <string id="Format">Puntuación</string>
+    <string id="Rally">Rally</string>
+    <string id="SideOut">Side-out</string>
+    <string id="Points">Puntos para ganar</string>
+    <string id="Deuce">Deuce</string>
+    <string id="WinBy2">Ganar por 2</string>
+    <string id="NoDeuce">No</string>
+    <string id="Mode">Modalidad</string>
+    <string id="Singles">Individual</string>
+    <string id="Doubles">Dobles</string>
+    <string id="FirstServe">Saca primero</string>
+    <string id="LeftTeam">Izquierda</string>
+    <string id="RightTeam">Derecha</string>
+    <string id="Role">Rol</string>
+    <string id="Player">Jugador</string>
+    <string id="Scorer">Anotador</string>
+    <string id="MyTeam">Nosotros</string>
+    <string id="Opponent">Rival</string>
+    <string id="Serve">SAQUE</string>
+    <string id="CourtR">Lado der.</string>
+    <string id="CourtL">Lado izq.</string>
+    <string id="ServerFmt">#$1$</string>
+    <string id="WinsFmt">Ganador: $1$</string>
+    <string id="HintOver">START menú · BACK deshacer</string>
+    <string id="GameMenu">Menú</string>
+    <string id="Undo">Deshacer punto</string>
+    <string id="Restart">Reiniciar</string>
+    <string id="BackToSetup">Volver a ajustes</string>
+    <string id="SaveActivity">¿Guardar actividad?</string>
+    <string id="Save">Guardar</string>
+    <string id="Discard">Descartar</string>
+    <string id="Exit">Salir</string>
+</strings>

@@ -1,0 +1,37 @@
+<strings>
+    <string id="AppName">Easy Pickleball Score</string>
+    <string id="Setup">Pickleball</string>
+    <string id="Start">Bắt đầu</string>
+    <string id="Format">Cách tính điểm</string>
+    <string id="Rally">Rally</string>
+    <string id="SideOut">Side-out</string>
+    <string id="Points">Điểm thắng</string>
+    <string id="Deuce">Deuce</string>
+    <string id="WinBy2">Hơn 2 điểm</string>
+    <string id="NoDeuce">Tắt</string>
+    <string id="Mode">Đơn/Đôi</string>
+    <string id="Singles">Đánh đơn</string>
+    <string id="Doubles">Đánh đôi</string>
+    <string id="FirstServe">Giao trước</string>
+    <string id="LeftTeam">Trái</string>
+    <string id="RightTeam">Phải</string>
+    <string id="Role">Vai trò</string>
+    <string id="Player">Người chơi</string>
+    <string id="Scorer">Ghi điểm</string>
+    <string id="MyTeam">Đội ta</string>
+    <string id="Opponent">Đối thủ</string>
+    <string id="Serve">GIAO BÓNG</string>
+    <string id="CourtR">Ô phải</string>
+    <string id="CourtL">Ô trái</string>
+    <string id="ServerFmt">#$1$</string>
+    <string id="WinsFmt">$1$ thắng!</string>
+    <string id="HintOver">START menu · BACK hoàn tác</string>
+    <string id="GameMenu">Menu</string>
+    <string id="Undo">Hoàn tác điểm</string>
+    <string id="Restart">Chơi lại</string>
+    <string id="BackToSetup">Về cài đặt</string>
+    <string id="SaveActivity">Lưu hoạt động?</string>
+    <string id="Save">Lưu</string>
+    <string id="Discard">Hủy bỏ</string>
+    <string id="Exit">Thoát</string>
+</strings>

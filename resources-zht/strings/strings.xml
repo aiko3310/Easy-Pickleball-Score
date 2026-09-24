@@ -1,0 +1,37 @@
+<strings>
+    <string id="AppName">簡單匹克球計分</string>
+    <string id="Setup">匹克球</string>
+    <string id="Start">開始比賽</string>
+    <string id="Format">賽制</string>
+    <string id="Rally">落地得分</string>
+    <string id="SideOut">發球得分</string>
+    <string id="Points">幾分獲勝</string>
+    <string id="Deuce">Deuce</string>
+    <string id="WinBy2">需領先 2 分</string>
+    <string id="NoDeuce">關閉</string>
+    <string id="Mode">單/雙打</string>
+    <string id="Singles">單打</string>
+    <string id="Doubles">雙打</string>
+    <string id="FirstServe">先發球</string>
+    <string id="LeftTeam">左方</string>
+    <string id="RightTeam">右方</string>
+    <string id="Role">身分</string>
+    <string id="Player">選手</string>
+    <string id="Scorer">記錄員</string>
+    <string id="MyTeam">我方</string>
+    <string id="Opponent">對手</string>
+    <string id="Serve">發球</string>
+    <string id="CourtR">右區</string>
+    <string id="CourtL">左區</string>
+    <string id="ServerFmt">$1$號</string>
+    <string id="WinsFmt">$1$獲勝！</string>
+    <string id="HintOver">START 選單 · BACK 復原</string>
+    <string id="GameMenu">選單</string>
+    <string id="Undo">復原上一分</string>
+    <string id="Restart">重新開始</string>
+    <string id="BackToSetup">回到設定</string>
+    <string id="SaveActivity">儲存活動？</string>
+    <string id="Save">儲存</string>
+    <string id="Discard">捨棄</string>
+    <string id="Exit">離開</string>
+</strings>

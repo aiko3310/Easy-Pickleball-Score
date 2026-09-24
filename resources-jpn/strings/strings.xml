@@ -1,0 +1,37 @@
+<strings>
+    <string id="AppName">かんたんピックルボール</string>
+    <string id="Setup">ピックルボール</string>
+    <string id="Start">試合開始</string>
+    <string id="Format">得点方式</string>
+    <string id="Rally">ラリー</string>
+    <string id="SideOut">サイドアウト</string>
+    <string id="Points">勝利点</string>
+    <string id="Deuce">デュース</string>
+    <string id="WinBy2">2点差で勝利</string>
+    <string id="NoDeuce">なし</string>
+    <string id="Mode">シングル/ダブル</string>
+    <string id="Singles">シングルス</string>
+    <string id="Doubles">ダブルス</string>
+    <string id="FirstServe">先サーブ</string>
+    <string id="LeftTeam">左</string>
+    <string id="RightTeam">右</string>
+    <string id="Role">役割</string>
+    <string id="Player">選手</string>
+    <string id="Scorer">記録係</string>
+    <string id="MyTeam">自分</string>
+    <string id="Opponent">相手</string>
+    <string id="Serve">サーブ</string>
+    <string id="CourtR">右コート</string>
+    <string id="CourtL">左コート</string>
+    <string id="ServerFmt">$1$番</string>
+    <string id="WinsFmt">$1$の勝ち！</string>
+    <string id="HintOver">START メニュー · BACK 取消</string>
+    <string id="GameMenu">メニュー</string>
+    <string id="Undo">1点戻す</string>
+    <string id="Restart">やり直す</string>
+    <string id="BackToSetup">設定に戻る</string>
+    <string id="SaveActivity">記録を保存？</string>
+    <string id="Save">保存</string>
+    <string id="Discard">破棄</string>
+    <string id="Exit">終了</string>
+</strings>
