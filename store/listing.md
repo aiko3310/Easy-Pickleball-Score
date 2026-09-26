@@ -30,11 +30,14 @@
 • DOWN：對手（右邊）得分
 • BACK：復原上一分
 • START：選單（復原、重新開始、回到設定、離開）
+• 觸控錶（如 vívoactive 6）：點螢幕左半／右半為我方／對手得分
 
 支援語言：繁體中文、English、日本語、Tiếng Việt、Español
 
 **新功能說明**：
 首次發布。
+
+1.0.1：新增支援 vívoactive 6。
 
 ---
 
@@ -64,11 +67,14 @@ CONTROLS
 • DOWN: opponent (right) wins the rally
 • BACK: undo last point
 • START: menu (undo, restart, back to setup, exit)
+• Touchscreen watches (e.g. vívoactive 6): tap the left / right half of the screen
 
 Languages: English, 繁體中文, 日本語, Tiếng Việt, Español
 
 **What's New**:
 Initial release.
+
+1.0.1: Added vívoactive 6 support.
 
 ---
 
@@ -98,11 +104,14 @@ Initial release.
 • DOWN：相手（右）の得点
 • BACK：1点戻す
 • START：メニュー（取り消し、やり直し、設定に戻る、終了）
+• タッチ対応モデル（vívoactive 6 など）：画面の左半分／右半分をタップして得点
 
 対応言語：日本語、English、繁體中文、Tiếng Việt、Español
 
 **新機能**：
 初回リリース。
+
+1.0.1：vívoactive 6 に対応。
 
 ---
 
@@ -132,6 +141,7 @@ HAI VAI TRÒ
 • DOWN: đối thủ (bên phải) thắng điểm
 • BACK: hoàn tác điểm vừa rồi
 • START: menu (hoàn tác, chơi lại, về cài đặt, thoát)
+• Đồng hồ cảm ứng (vd. vívoactive 6): chạm nửa trái / nửa phải màn hình
 
 Ngôn ngữ: Tiếng Việt, English, 繁體中文, 日本語, Español
 
@@ -166,8 +176,11 @@ CONTROLES
 • DOWN: el rival (derecha) gana el punto
 • BACK: deshacer el último punto
 • START: menú (deshacer, reiniciar, volver a ajustes, salir)
+• Relojes táctiles (p. ej. vívoactive 6): toca la mitad izquierda / derecha de la pantalla
 
 Idiomas: Español, English, 繁體中文, 日本語, Tiếng Việt
 
 **Novedades**：
 Primera versión.
+
+1.0.1: compatibilidad con vívoactive 6.
