@@ -22,6 +22,8 @@ A Garmin Connect IQ watch app for keeping pickleball scores with the physical bu
 | START（右上） | 選單：復原／重新開始／回到設定／離開 |
 | 觸控（有觸控的機型） | 點左半／右半螢幕，同 UP／DOWN |
 
+觸控錶（Venu、vívoactive 等）沒有 UP／DOWN：點螢幕左半／右半計分，上方鍵開選單，下方鍵復原；vívoactive 3 系列只有一顆鍵，往右滑復原。
+
 設定選單：開始比賽、先發球、身分、賽制、幾分獲勝、Deuce、單雙打。每選一次切換到下一個值，會記住上次設定。
 
 ## 活動錄製（選手模式）

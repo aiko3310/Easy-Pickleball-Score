@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
-    <iq:application id="e04eee66c34847a092e6d947914e4faa" type="watch-app" name="@Strings.AppName" entry="PickleballApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.1.0" version="1.1.0">
+    <iq:application id="e04eee66c34847a092e6d947914e4faa" type="watch-app" name="@Strings.AppName" entry="PickleballApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.1.0" version="1.1.1">
         <iq:products>
             <!-- Approach -->
             <iq:product id="approachs50"/>

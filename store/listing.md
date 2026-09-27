@@ -9,7 +9,7 @@
 **名稱**：簡單匹克球計分
 
 **簡介**：
-用手錶實體按鍵輕鬆幫匹克球比賽計分！自動處理發球權、發球區與叫分，打球時不用再邊打邊記。
+用手錶按鍵或觸控螢幕輕鬆幫匹克球比賽計分！自動處理發球權、發球區與叫分，打球時不用再邊打邊記。
 
 【主要功能】
 • 兩種賽制：發球得分（Side-out）與落地得分（Rally）
@@ -26,11 +26,17 @@
 • 記錄員：顯示「左方／右方」，適合幫別人記分，不錄製活動
 
 【操作】
+按鍵錶（Descent、fēnix、Forerunner、Instinct 等）：
 • UP：我方（左邊）得分
 • DOWN：對手（右邊）得分
-• BACK：復原上一分
+• BACK：復原上一分（0-0 時回到設定）
 • START：選單（復原、重新開始、回到設定、離開）
-• 觸控錶（如 vívoactive 6）：點螢幕左半／右半為我方／對手得分
+• 同時有觸控螢幕的機型，也可以點螢幕左半／右半計分
+
+觸控錶（Venu、vívoactive 等）：
+• 點螢幕左半／右半：我方／對手得分
+• 上方按鍵：選單
+• 下方按鍵：復原上一分（vívoactive 3 系列：往右滑）
 
 支援語言：繁體中文、English、日本語、Tiếng Việt、Español
 
@@ -41,6 +47,8 @@
 
 1.1.0：支援 127 款 Garmin 手錶，新增 Descent Mk3、Venu、Instinct、MARQ 等系列，並改善小螢幕版面。
 
+1.1.1：vívoactive 3 系列可往右滑復原上一分；更新各錶款操作說明。
+
 ---
 
 ## English
@@ -48,7 +56,7 @@
 **Name**: Easy Pickleball Score
 
 **Description**:
-Keep pickleball scores with your watch buttons. Serve, service court and score call are handled automatically, so you can focus on the game.
+Keep pickleball scores with your watch buttons or touchscreen. Serve, service court and score call are handled automatically, so you can focus on the game.
 
 FEATURES
 • Side-out and rally scoring
@@ -65,11 +73,17 @@ TWO ROLES
 • Scorekeeper: shows "Left / Right" for keeping score for others – no activity recorded
 
 CONTROLS
+Button watches (Descent, fēnix, Forerunner, Instinct, etc.):
 • UP: my team (left) wins the rally
 • DOWN: opponent (right) wins the rally
-• BACK: undo last point
+• BACK: undo last point (at 0-0: back to setup)
 • START: menu (undo, restart, back to setup, exit)
-• Touchscreen watches (e.g. vívoactive 6): tap the left / right half of the screen
+• Models that also have a touchscreen can tap the left / right half of the screen to score
+
+Touchscreen watches (Venu, vívoactive, etc.):
+• Tap the left / right half of the screen: my team / opponent scores
+• Top button: menu
+• Bottom button: undo last point (vívoactive 3 series: swipe right)
 
 Languages: English, 繁體中文, 日本語, Tiếng Việt, Español
 
@@ -80,6 +94,8 @@ Initial release.
 
 1.1.0: Now supports 127 Garmin watches, including Descent Mk3, Venu, Instinct and MARQ, with an improved layout on small screens.
 
+1.1.1: vívoactive 3 series can swipe right to undo the last point; updated control instructions for each watch type.
+
 ---
 
 ## 日本語（Japanese）
@@ -87,7 +103,7 @@ Initial release.
 **名前**：かんたんピックルボール
 
 **説明**：
-時計のボタンだけでピックルボールのスコアを簡単に記録。サーブ権、サーブ位置、スコアコールを自動で管理するので、プレーに集中できます。
+時計のボタンやタッチ操作でピックルボールのスコアを簡単に記録。サーブ権、サーブ位置、スコアコールを自動で管理するので、プレーに集中できます。
 
 【主な機能】
 • サイドアウト方式とラリーポイント方式
@@ -104,11 +120,17 @@ Initial release.
 • 記録係：「左／右」を表示。他の人の試合の記録用で、アクティビティは記録しません
 
 【操作】
+ボタン操作モデル（Descent、fēnix、Forerunner、Instinct など）：
 • UP：自分（左）の得点
 • DOWN：相手（右）の得点
-• BACK：1点戻す
+• BACK：1点戻す（0-0 のときは設定に戻る）
 • START：メニュー（取り消し、やり直し、設定に戻る、終了）
-• タッチ対応モデル（vívoactive 6 など）：画面の左半分／右半分をタップして得点
+• タッチスクリーン搭載モデルは、画面の左半分／右半分のタップでも得点できます
+
+タッチ操作モデル（Venu、vívoactive など）：
+• 画面の左半分／右半分をタップ：自分／相手の得点
+• 上ボタン：メニュー
+• 下ボタン：1点戻す（vívoactive 3 シリーズは右スワイプ）
 
 対応言語：日本語、English、繁體中文、Tiếng Việt、Español
 
@@ -119,6 +141,8 @@ Initial release.
 
 1.1.0：Descent Mk3、Venu、Instinct、MARQ など Garmin 127 機種に対応。小さい画面のレイアウトを改善。
 
+1.1.1：vívoactive 3 シリーズで右スワイプによる取り消しに対応。モデル別の操作説明を更新。
+
 ---
 
 ## Tiếng Việt（Vietnamese）
@@ -126,7 +150,7 @@ Initial release.
 **Tên**：Easy Pickleball Score
 
 **Mô tả**：
-Ghi điểm pickleball dễ dàng bằng các nút trên đồng hồ. Quyền giao bóng, ô giao bóng và cách hô điểm đều được tự động xử lý để bạn tập trung vào trận đấu.
+Ghi điểm pickleball dễ dàng bằng nút hoặc màn hình cảm ứng của đồng hồ. Quyền giao bóng, ô giao bóng và cách hô điểm đều được tự động xử lý để bạn tập trung vào trận đấu.
 
 TÍNH NĂNG
 • Hai cách tính điểm: Side-out và Rally
@@ -143,11 +167,17 @@ HAI VAI TRÒ
 • Ghi điểm: hiển thị "Trái / Phải", dùng khi ghi điểm cho người khác, không ghi hoạt động
 
 ĐIỀU KHIỂN
+Đồng hồ dùng nút (Descent, fēnix, Forerunner, Instinct…):
 • UP: đội ta (bên trái) thắng điểm
 • DOWN: đối thủ (bên phải) thắng điểm
-• BACK: hoàn tác điểm vừa rồi
+• BACK: hoàn tác điểm vừa rồi (ở 0-0: về cài đặt)
 • START: menu (hoàn tác, chơi lại, về cài đặt, thoát)
-• Đồng hồ cảm ứng (vd. vívoactive 6): chạm nửa trái / nửa phải màn hình
+• Mẫu có thêm màn hình cảm ứng cũng có thể chạm nửa trái / nửa phải để ghi điểm
+
+Đồng hồ cảm ứng (Venu, vívoactive…):
+• Chạm nửa trái / nửa phải màn hình: đội ta / đối thủ ghi điểm
+• Nút trên: menu
+• Nút dưới: hoàn tác điểm vừa rồi (dòng vívoactive 3: vuốt sang phải)
 
 Ngôn ngữ: Tiếng Việt, English, 繁體中文, 日本語, Español
 
@@ -161,7 +191,7 @@ Phát hành lần đầu.
 **Nombre**：Easy Pickleball Score
 
 **Descripción**：
-Lleva el marcador de pickleball con los botones de tu reloj. El saque, el lado de saque y el canto del marcador se gestionan automáticamente para que te concentres en el juego.
+Lleva el marcador de pickleball con los botones o la pantalla táctil de tu reloj. El saque, el lado de saque y el canto del marcador se gestionan automáticamente para que te concentres en el juego.
 
 FUNCIONES
 • Puntuación Side-out y Rally
@@ -178,11 +208,17 @@ DOS ROLES
 • Anotador: muestra "Izquierda / Derecha" para llevar el marcador de otros, sin registrar actividad
 
 CONTROLES
+Relojes con botones (Descent, fēnix, Forerunner, Instinct, etc.):
 • UP: nosotros (izquierda) ganamos el punto
 • DOWN: el rival (derecha) gana el punto
-• BACK: deshacer el último punto
+• BACK: deshacer el último punto (en 0-0: volver a ajustes)
 • START: menú (deshacer, reiniciar, volver a ajustes, salir)
-• Relojes táctiles (p. ej. vívoactive 6): toca la mitad izquierda / derecha de la pantalla
+• Los modelos que también tienen pantalla táctil pueden tocar la mitad izquierda / derecha para puntuar
+
+Relojes táctiles (Venu, vívoactive, etc.):
+• Toca la mitad izquierda / derecha de la pantalla: punto para nosotros / el rival
+• Botón superior: menú
+• Botón inferior: deshacer el último punto (serie vívoactive 3: desliza a la derecha)
 
 Idiomas: Español, English, 繁體中文, 日本語, Tiếng Việt
 
@@ -192,3 +228,5 @@ Primera versión.
 1.0.1: compatibilidad con vívoactive 6.
 
 1.1.0: compatible con 127 relojes Garmin, incluidos Descent Mk3, Venu, Instinct y MARQ, y mejor diseño en pantallas pequeñas.
+
+1.1.1: en la serie vívoactive 3 se puede deslizar a la derecha para deshacer el último punto; instrucciones de control actualizadas por tipo de reloj.

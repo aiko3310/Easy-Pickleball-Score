@@ -6,7 +6,7 @@ import Toybox.WatchUi;
 // 操作：
 //   UP    = 左方贏球     DOWN = 右方贏球
 //   觸控：點螢幕左半 / 右半
-//   BACK  = 復原上一分（0-0 時回到設定）
+//   BACK  = 復原上一分（0-0 時回到設定）；沒有 BACK 鍵的機型往右滑
 //   START = 選單（復原 / 重新開始 / 回設定 / 離開）
 class GameDelegate extends WatchUi.BehaviorDelegate {
     hidden var _m;
@@ -41,8 +41,19 @@ class GameDelegate extends WatchUi.BehaviorDelegate {
         return true;
     }
 
-    // 吃掉滑動手勢，避免誤觸
+    // 吃掉滑動手勢避免誤觸；沒有 BACK 實體鍵的機型（如 vívoactive 3）往右滑 = 復原
     function onSwipe(evt as WatchUi.SwipeEvent) as Boolean {
+        if (evt.getDirection() == WatchUi.SWIPE_RIGHT && !hasBackButton()) {
+            back();
+        }
+        return true;
+    }
+
+    hidden function hasBackButton() as Boolean {
+        var ds = System.getDeviceSettings();
+        if (ds has :inputButtons) {
+            return (ds.inputButtons & System.BUTTON_INPUT_ESC) != 0;
+        }
         return true;
     }
 
