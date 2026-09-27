@@ -39,6 +39,8 @@
 
 1.0.1：新增支援 vívoactive 6。
 
+1.1.0：支援 127 款 Garmin 手錶，新增 Descent Mk3、Venu、Instinct、MARQ 等系列，並改善小螢幕版面。
+
 ---
 
 ## English
@@ -76,6 +78,8 @@ Initial release.
 
 1.0.1: Added vívoactive 6 support.
 
+1.1.0: Now supports 127 Garmin watches, including Descent Mk3, Venu, Instinct and MARQ, with an improved layout on small screens.
+
 ---
 
 ## 日本語（Japanese）
@@ -112,6 +116,8 @@ Initial release.
 初回リリース。
 
 1.0.1：vívoactive 6 に対応。
+
+1.1.0：Descent Mk3、Venu、Instinct、MARQ など Garmin 127 機種に対応。小さい画面のレイアウトを改善。
 
 ---
 
@@ -184,3 +190,5 @@ Idiomas: Español, English, 繁體中文, 日本語, Tiếng Việt
 Primera versión.
 
 1.0.1: compatibilidad con vívoactive 6.
+
+1.1.0: compatible con 127 relojes Garmin, incluidos Descent Mk3, Venu, Instinct y MARQ, y mejor diseño en pantallas pequeñas.

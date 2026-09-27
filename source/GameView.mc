@@ -59,7 +59,7 @@ class GameView extends WatchUi.View {
         if (sub != null) {
             // Instinct 等有副螢幕的機型：賽制分三行放在副螢幕左邊，小球場畫在副螢幕裡
             var lines = [_hdr1, _hdrMode, _hdrTarget];
-            var hx = sub.x / 2;
+            var hx = sub.x * 0.58;          // 稍微偏右，避開八角形錶面的左上斜角
             var y = sub.y + (sub.height - lines.size() * fh) / 2 + fh / 2;
             for (var i = 0; i < lines.size(); i++) {
                 dc.drawText(hx, y + i * fh, font, lines[i], center);
