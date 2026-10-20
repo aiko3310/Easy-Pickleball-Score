@@ -6,6 +6,7 @@
     <string id="Rally">落地得分</string>
     <string id="SideOut">發球得分</string>
     <string id="Points">幾分獲勝</string>
+    <string id="Custom">自訂</string>
     <string id="Deuce">Deuce</string>
     <string id="WinBy2">需領先 2 分</string>
     <string id="NoDeuce">關閉</string>

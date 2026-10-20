@@ -33,6 +33,8 @@ module Settings {
     var player = true;      // true = 選手（我方/對手），false = 記錄員（左方/右方）
 
     const TARGETS = [11, 13, 15, 17, 19, 21];
+    const TARGET_MIN = 1;    // 自訂分數範圍
+    const TARGET_MAX = 99;
 
     function load() as Void {
         var v = Application.Storage.getValue("rally");
@@ -56,11 +58,6 @@ module Settings {
         Application.Storage.setValue("firstLeft", firstLeft);
         Application.Storage.setValue("deuce", deuce);
         Application.Storage.setValue("player", player);
-    }
-
-    function nextTarget() as Void {
-        var idx = TARGETS.indexOf(target);
-        target = TARGETS[(idx + 1) % TARGETS.size()];
     }
 
     function str(id) as String {
