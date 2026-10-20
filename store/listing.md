@@ -14,7 +14,7 @@
 【主要功能】
 • 兩種賽制：發球得分（Side-out）與落地得分（Rally）
 • 單打／雙打，雙打發球得分制自動從 0-0-2 開局
-• 11／13／15／17／19／21 分制，可選擇是否 Deuce（需領先 2 分）
+• 11／13／15／17／19／21 分制，或自訂 1–99 分，可選擇是否 Deuce（需領先 2 分）
 • 大字比分，發球方以黃色標示
 • 小球場圖顯示發球員站在右區或左區
 • 底部自動叫分（發球方-接發方-發球員）
@@ -49,6 +49,8 @@
 
 1.1.1：vívoactive 3 系列可往右滑復原上一分；更新各錶款操作說明。
 
+1.2.0：可自訂幾分獲勝（1–99 分）。
+
 ---
 
 ## English
@@ -61,7 +63,7 @@ Keep pickleball scores with your watch buttons or touchscreen. Serve, service co
 FEATURES
 • Side-out and rally scoring
 • Singles and doubles – doubles side-out games start at 0-0-2
-• Play to 11, 13, 15, 17, 19 or 21, with optional deuce (win by 2)
+• Play to 11, 13, 15, 17, 19 or 21, or any custom target from 1 to 99, with optional deuce (win by 2)
 • Big, easy-to-read scores; the serving team is shown in yellow
 • Mini court diagram shows whether the server is in the right or left court
 • Automatic score call (server – receiver – server number)
@@ -96,6 +98,8 @@ Initial release.
 
 1.1.1: vívoactive 3 series can swipe right to undo the last point; updated control instructions for each watch type.
 
+1.2.0: Set a custom points-to-win target (1–99).
+
 ---
 
 ## 日本語（Japanese）
@@ -108,7 +112,7 @@ Initial release.
 【主な機能】
 • サイドアウト方式とラリーポイント方式
 • シングルス／ダブルス（ダブルスのサイドアウト方式は 0-0-2 から開始）
-• 11／13／15／17／19／21 点先取、デュース（2点差で勝利）の有無を選択可能
+• 11／13／15／17／19／21 点先取（1〜99 点のカスタム設定も可）、デュース（2点差で勝利）の有無を選択可能
 • 見やすい大きなスコア表示、サーブ側は黄色で表示
 • ミニコート図でサーバーが右コートか左コートかを表示
 • スコアコールを自動表示（サーブ側－レシーブ側－サーバー番号）
@@ -143,6 +147,8 @@ Initial release.
 
 1.1.1：vívoactive 3 シリーズで右スワイプによる取り消しに対応。モデル別の操作説明を更新。
 
+1.2.0：勝利点を 1〜99 点で自由に設定可能に。
+
 ---
 
 ## Tiếng Việt（Vietnamese）
@@ -155,7 +161,7 @@ Ghi điểm pickleball dễ dàng bằng nút hoặc màn hình cảm ứng củ
 TÍNH NĂNG
 • Hai cách tính điểm: Side-out và Rally
 • Đánh đơn / đánh đôi – đánh đôi kiểu Side-out bắt đầu từ 0-0-2
-• Chơi đến 11, 13, 15, 17, 19 hoặc 21 điểm, tùy chọn Deuce (phải hơn 2 điểm)
+• Chơi đến 11, 13, 15, 17, 19 hoặc 21 điểm, hoặc tùy chỉnh từ 1 đến 99, tùy chọn Deuce (phải hơn 2 điểm)
 • Điểm số lớn, dễ đọc; đội giao bóng hiển thị màu vàng
 • Sơ đồ sân nhỏ cho biết người giao bóng đứng ô phải hay ô trái
 • Tự động hô điểm (đội giao – đội nhận – số người giao)
@@ -196,7 +202,7 @@ Lleva el marcador de pickleball con los botones o la pantalla táctil de tu relo
 FUNCIONES
 • Puntuación Side-out y Rally
 • Individual y dobles: en dobles con Side-out se empieza en 0-0-2
-• Partidos a 11, 13, 15, 17, 19 o 21 puntos, con deuce opcional (ganar por 2)
+• Partidos a 11, 13, 15, 17, 19 o 21 puntos, o un objetivo personalizado de 1 a 99, con deuce opcional (ganar por 2)
 • Marcador grande y fácil de leer; el equipo que saca se muestra en amarillo
 • Mini pista que indica si el sacador está en el lado derecho o izquierdo
 • Canto automático del marcador (sacador – receptor – número de sacador)
@@ -230,3 +236,5 @@ Primera versión.
 1.1.0: compatible con 127 relojes Garmin, incluidos Descent Mk3, Venu, Instinct y MARQ, y mejor diseño en pantallas pequeñas.
 
 1.1.1: en la serie vívoactive 3 se puede deslizar a la derecha para deshacer el último punto; instrucciones de control actualizadas por tipo de reloj.
+
+1.2.0: objetivo de puntos personalizable (1–99).
